@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm YiWen Hon</h1>
+<h1 align="center">Hi, I'm YiWen Hon   😺 </h1> 
 <h3 align="center">Data scientist with excellent communication and project management skills, and 10 years of experience as an award-winning information professional.</h3>
 
 Pronouns: She/Her
