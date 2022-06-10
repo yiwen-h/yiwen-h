@@ -7,7 +7,7 @@ Pronouns: She/Her
 
 - 🌱 I’m currently learning **Google Cloud Platform, Advanced SQL**
 
-- 👨‍💻 All of my projects are available at [https://troopl.com/yiwen-h](troopl.com/yiwen-h)
+- 👨‍💻 All of my projects are available at [https://troopl.com/yiwen-h](https://troopl.com/yiwen-h)
 
 - 📝 I regularly write articles on [https://yiwenthelibrarian.wordpress.com/](https://yiwenthelibrarian.wordpress.com/)
 
