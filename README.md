@@ -3,17 +3,19 @@
 
 Pronouns: She/Her
 
-- 🔭 I’m currently working on [a dashboard of NHS research publications](https://github.com/yiwen-h/nhs_oa)
+- 🔭 I’m currently working on  [a machine learning model to help with classifying and analysing patient feedback in the NHS](https://github.com/yiwen-h/nhs_oa](https://github.com/CDU-data-science-team/pxtextmining)
 
-- 🌱 I’m currently learning **Google Cloud Platform, Advanced SQL**
+- 🌱 I’m currently learning **R**
 
 - 👨‍💻 All of my projects are available at [https://troopl.com/yiwen-h](https://troopl.com/yiwen-h)
 
-- 📝 I regularly write articles on [https://yiwenthelibrarian.wordpress.com/](https://yiwenthelibrarian.wordpress.com/)
+- 📝 I occasionally write articles on [https://yiwenthelibrarian.wordpress.com/](https://yiwenthelibrarian.wordpress.com/)
 
-- 💬 Ask me about **Open Access and healthcare literature searching**
+- 👩‍🏫 I teach Python, SQL, and Data Science for [Le Wagon London](https://www.lewagon.com/london/data-science-course)
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/yiwen-h/](https://www.linkedin.com/in/yiwen-h/)
+- 💬 Ask me about **Open Access, healthcare literature searching, and teaching information/coding skills**
+
+- 📄 My professional background is on [https://www.linkedin.com/in/yiwen-h/](https://www.linkedin.com/in/yiwen-h/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
