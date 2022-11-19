@@ -3,7 +3,7 @@
 
 Pronouns: She/Her
 
-- 🔭 I’m currently working on  [a machine learning model to help with classifying and analysing patient feedback in the NHS](https://github.com/yiwen-h/nhs_oa](https://github.com/CDU-data-science-team/pxtextmining)
+- 🔭 I’m currently working on  [a machine learning model to help with classifying and analysing patient feedback in the NHS](https://github.com/CDU-data-science-team/pxtextmining)
 
 - 🌱 I’m currently learning **R**
 
