@@ -5,15 +5,9 @@ Pronouns: She/Her
 
 - 🔭 I’m currently working on  [a machine learning model to help with classifying and analysing patient feedback in the NHS](https://github.com/CDU-data-science-team/pxtextmining)
 
-- 🌱 I’m currently learning **R**
-
-- 👨‍💻 All of my projects are available at [https://troopl.com/yiwen-h](https://troopl.com/yiwen-h)
-
-- 📝 I occasionally write articles on [https://yiwenthelibrarian.wordpress.com/](https://yiwenthelibrarian.wordpress.com/)
-
 - 👩‍🏫 I teach Python, SQL, and Data Science for [Le Wagon London](https://www.lewagon.com/london/data-science-course)
 
-- 💬 Ask me about **Open Access, healthcare literature searching, and teaching information/coding skills**
+- 💬 Ask me about **Open Access, NLP, healthcare literature searching, and teaching information/coding skills**
 
 - 📄 My professional background is on [https://www.linkedin.com/in/yiwen-h/](https://www.linkedin.com/in/yiwen-h/)
 
