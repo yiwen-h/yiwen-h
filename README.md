@@ -3,7 +3,7 @@
 
 Pronouns: She/Her
 
-- 🔭 I’m currently working on  [a machine learning model to help with classifying and analysing patient feedback in the NHS](https://github.com/CDU-data-science-team/pxtextmining)
+- 🔭 I’m currently working on [a model for estimating future activity levels at hospitals](https://connect.strategyunitwm.nhs.uk/nhp/project_information/).
 
 - 👩‍🏫 I teach Python, SQL, and Data Science for [Le Wagon London](https://www.lewagon.com/london/data-science-course)
 
@@ -13,7 +13,6 @@ Pronouns: She/Her
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/yiwen_h" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yiwen_h" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/yiwen-h" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yiwen-h" height="30" width="40" /></a>
 </p>
 
